@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+
+.list-group-item-action.list-group-item-action:hover{
+  color: #282c34;
+  background-color: rgb(203, 234, 245);
+}
+
+.modal-90w{
+  width: 80% !important;
+  max-width: none !important;
+}
+
+.thead-dark{
+  position: sticky;
+  top: -2px;
+  background-color: lightgray;
+}
+
+
+
+a{
+  color: #fff !important;
+  text-decoration: none !important;
+}
